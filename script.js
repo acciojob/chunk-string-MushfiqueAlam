@@ -12,7 +12,7 @@ function stringChop(str, size) {
 	// 		arr.push(s);
 	// 		s="";
 	// 	}
-	}
+	// }
 	// if(s.length>0)
 	// 	arr.push(s);
 
